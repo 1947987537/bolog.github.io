@@ -8,38 +8,8 @@
   </style>
 </head>
 <body>
-  【<b>标题字应用</b>】
-  <h1 align="center">这是一级标题，居中对齐</h1>
-  <h4 align="left">这是二级标题，居左对齐</h4>
-  <h5 align="right">这是三级标题，居右对齐</h5>
-  <hr color="#ff3333">
-  【<b>段落、标题字应用</b>】
-  <p>
-    &nbsp;&nbsp;&nbsp;&nbsp;通过实验项目的方式介绍了常用Web前端开发工具的基本功能，让学生边实验边熟悉开发工具的功能与特点，掌握每种开发工具对网站设计与开发的作用。
-  </p>
-  <p style="color:red;text-align:center;font-family:STCaiyun;">
-    这是一段文本   
-  </p>
-  <hr color="#00cc66"><!-- <hr>标签好像不可以设置内联样式表来控制样式 -->
-  【<b>物理、逻辑样式标记应用</b>】<br>
- 
-  <!-- <b>标签不可以使用样式表来控制样式的显示 -->
-  <p style="text-align:center">
-    <b>这是黑体标记b的应用</b><br>
-    <i>这是斜体标记i应用</i><br>
-    @Microsoft<sup>R</sup>Windows 2007(@版权 R注册商标，上标sup)<br>
-    <ins>这是下划线标记u</ins><br>
-    <del>这是删除线标记</del><br>
-    x<sub>1</sub>+x<sub>2</sub>=10<br>
-    2X<sup>2</sup>+3x=9<br>
-       这是强调标记em应用！<br>
-       地址：<br>
-    江苏省南京市珠江路1924号
-  </p>
-  <hr color="#33ffff" size="3" width="50%" align="center">
-  <pre font-family="Monospace">
-  【<b>其他排版标记应用</b>】
   
+  <b>更改后的内容</b>
   <b>《春思》</b>
            <b>李白</b>
      <b>燕草如碧丝，秦桑低绿枝。</b>
